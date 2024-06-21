@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Groupwork/static/css/main.0df6c434.css",
+    "main.js": "/Groupwork/static/js/main.503fb8a2.js",
+    "static/js/453.39da6acd.chunk.js": "/Groupwork/static/js/453.39da6acd.chunk.js",
+    "index.html": "/Groupwork/index.html",
+    "main.0df6c434.css.map": "/Groupwork/static/css/main.0df6c434.css.map",
+    "main.503fb8a2.js.map": "/Groupwork/static/js/main.503fb8a2.js.map",
+    "453.39da6acd.chunk.js.map": "/Groupwork/static/js/453.39da6acd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0df6c434.css",
+    "static/js/main.503fb8a2.js"
+  ]
+}
